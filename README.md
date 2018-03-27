@@ -1,5 +1,1 @@
-# suminhan.github.io
-
-## hello
-
-### Everyone!
+# SuminHan.com
