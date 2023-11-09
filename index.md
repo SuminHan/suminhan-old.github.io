@@ -1,8 +1,5 @@
----
-layout: page
-title: Sumin Han
-permalink: /
----
+Sumin Han
+===
 
 
 _last updated: Nov 10th, 2023_
