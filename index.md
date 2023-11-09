@@ -1,3 +1,7 @@
+---
+title: Sumin Han
+---
+
 Sumin Han
 =========
 
@@ -74,8 +78,8 @@ Cooking, Chess ([sucern@chess.com](https://www.chess.com/member/sucern))
 - [The World as Will and Representation — Arthur Schopenhauer](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation)
 
 # Curriculum Vitae
-[Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/_Academic_CV__Sumin_Resume_20230828.pdf)
-[Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
+- [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/_Academic_CV__Sumin_Resume_20230828.pdf)
+- [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
 
 Education
 ---------
