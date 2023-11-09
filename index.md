@@ -14,7 +14,7 @@ Ph.D. Student, Korea Advanced Institute of Science and Technology (KAIST)
 
 # Research Interests
 
-Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec
+Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban Simulation
 
 # Publications
 
