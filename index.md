@@ -1,7 +1,3 @@
----
-title: Sumin Han
----
-
 Sumin Han
 =========
 
