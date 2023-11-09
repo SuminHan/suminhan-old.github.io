@@ -58,7 +58,7 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 
 # Experiences
 - Deep Urban: [https://deepurban.kaist.ac.kr/](https://deepurban.kaist.ac.kr/) (Jan, 2023 ~)
-    - Urban Data and Code Sharing Platform (main server manager).
+    - Urban Data and Code Sharing Platform (Main Server Manager).
     - Urban Flow [https://cdsnlab.github.io/urbanflow-documentation/](https://cdsnlab.github.io/urbanflow-documentation/): Ongoing project for providing easy API for urban researchers.
 - Satrec Initiative Co., Ltd. (Jul 2017 - Aug 2017 · 2 mos)
     - Parallel Computing Framework Design
@@ -66,6 +66,12 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 - 로톡 LAWTALK (Mar 2014 - May 2014 · 3 mos): Software Engineer
     - Full-time SW developer
     - **Skills:** JavaScript · HTML · PHP · Git · Node.js · MongoDB · Vim · Express.js · AngularJS · Agile Methodologies · Firebase
+
+# Education
+
+*   18'~ Integrated master's/doctoral program (doctoral), KAIST - School of Computing
+*   18' B.S. in KAIST - School of Computing, Advanced Major
+*   13' Korea Science Academy of KAIST
 
 # Hobbies
 
@@ -78,10 +84,3 @@ Cooking, Chess ([sucern@chess.com](https://www.chess.com/member/sucern))
 # Curriculum Vitae
 - [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/_Academic_CV__Sumin_Resume_20230828.pdf)
 - [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
-
-Education
----------
-
-*   18'~ Integrated master's/doctoral program (doctoral), KAIST - School of Computing
-*   18' B.S. in KAIST - School of Computing, Advanced Major
-*   13' Korea Science Academy of KAIST
