@@ -57,7 +57,9 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec
 - 한수민, and 김명호. "베이지안 개인화 순위 방법 기반 대용량 이종 네트워크에서의 효율적인 랜덤 워크 순위 계산(Random Walk with Restart on a Large-scale Heterogeneous Network Based on the Bayesian Personalized Ranking)." *한국정보과학회 학술발표논문집* (2018): 889-891.APA [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613785)
 
 # Experiences
-
+- Deep Urban: [https://deepurban.kaist.ac.kr/](https://deepurban.kaist.ac.kr/) (Jan, 2023 ~)
+    - Urban Data and Code Sharing Platform.
+    - Urban Flow [https://cdsnlab.github.io/urbanflow-documentation/](https://cdsnlab.github.io/urbanflow-documentation/): Ongoing project for providing easy API for urban researchers.
 - Satrec Initiative Co., Ltd. (Jul 2017 - Aug 2017 · 2 mos)
     - Parallel Computing Framework Design
     - **Skills:** Parallel Computing · MPI · CUDA · docker · CentOS
