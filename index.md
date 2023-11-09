@@ -1,6 +1,3 @@
----
-title: null
----
 
 Sumin Han
 =========
