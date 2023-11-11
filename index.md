@@ -6,7 +6,7 @@ _last updated: Nov 10th, 2023_
 
 ![](./suminhan.jpg)
 
-Ph.D. Student, Korea Advanced Institute of Science and Technology (KAIST)
+Ph.D. Student, [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee), School of Computing, Korea Advanced Institute of Science and Technology (KAIST)
 
 *   Email: hsm6911 (at) kaist.ac.kr
 *   Linkedin: [https://www.linkedin.com/in/sumin-han-cs/](https://www.linkedin.com/in/sumin-han-cs/)
