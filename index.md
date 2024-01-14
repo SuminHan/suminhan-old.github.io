@@ -21,7 +21,7 @@ Sumin Han
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>  
 
-_last updated: Nov 10th, 2023_
+_last updated: Jan 14th, 2024_
 
 ![](./suminhan-20231121.jpg)
 
