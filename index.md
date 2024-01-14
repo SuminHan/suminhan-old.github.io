@@ -1,15 +1,25 @@
 Sumin Han
 ===
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171268910-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171268910-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+      gtag('config', 'UA-171268910-1');
+    </script>
 
-  gtag('config', 'UA-171268910-1');
-</script>
+    <!-- <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> -->
+    <meta charset="UTF-8">
+    <!--익스플로러를 최신으로-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>Sumin Han's Profile</title>
+    <!-- 검색엔진 최적화-->
+    <!-- 모바일 최적화 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>  
 
 _last updated: Nov 10th, 2023_
 
