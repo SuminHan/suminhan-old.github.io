@@ -1,8 +1,3 @@
----
-title: Sumin Han
-layout: default
----
-
 Sumin Han
 ===
 
