@@ -66,6 +66,12 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 
 - 한수민, and 김명호. "베이지안 개인화 순위 방법 기반 대용량 이종 네트워크에서의 효율적인 랜덤 워크 순위 계산(Random Walk with Restart on a Large-scale Heterogeneous Network Based on the Bayesian Personalized Ranking)." *한국정보과학회 학술발표논문집* (2018): 889-891.APA [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613785)
 
+## Patents
+
+- 이동만, 한수민, "다중지역특징 인식 시공간 대중교통 예측 시스템 및 그 방법 (SYSTEM AND METHOD FOR PREDICTING MULTI-LOCAL FEATURE RECOGNITION SPATIO-TEMPORAL PUBLIC TRANSPORT)", 출원번호: 10-2023-0055885 (2023-04-28)
+- 이동만 한수민, "도시 환경에서 LTE 셀 타워 액세스 트레이스를 이용한 일일 POI 이용 발견 방법 (Method of Discovering Daily POI Exploitation Using LTE Cell Tower Access Traces in Urban Environment)", 출원번호: 10-2021-0047046 (2021-04-12), 등록번호: 10-25947500000 (2023-10-24)
+- 이동만 김동민 한수민 손희석, "소셜 미디어 데이터에 대한 준 지도 멀티 모달 딥 임베디드 클러스터링을 이용한 인간 활동 인식 방법 (Method for Human Activity Recognition Using Semi-supervised Multi-modal Deep Embedded Clustering for Social Media Data)", 출원번호: 10-2021-0009319 (2021-01-22), 등록번호: 10-25149200000 (2023-03-23)
+
 ## Experiences
 - Deep Urban: [https://deepurban.kaist.ac.kr/](https://deepurban.kaist.ac.kr/) (Jan, 2023 ~)
     - Urban Data and Code Sharing Platform (Main Server Manager).
