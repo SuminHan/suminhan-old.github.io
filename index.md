@@ -88,8 +88,6 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 
 Cooking, Chess ([sucern@chess.com](https://www.chess.com/member/sucern))
 
-Twine [Ripples of Trust](Ripples_of_Trust.html)
-
 ## Favorite Books
 
 - [The World as Will and Representation — Arthur Schopenhauer](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation), [ch14](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation/First_Book#%C2%A7_14)
