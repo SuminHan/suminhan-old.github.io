@@ -83,6 +83,10 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
     - Full-time SW developer
     - **Skills:** JavaScript · HTML · PHP · Git · Node.js · MongoDB · Vim · Express.js · AngularJS · Agile Methodologies · Firebase
 
+# Curriculum Vitae
+- [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/Sumin_Academic_CV.pdf)
+- [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
+
 
 ## Hobbies
 
@@ -90,8 +94,4 @@ Cooking, Chess ([sucern@chess.com](https://www.chess.com/member/sucern))
 
 ## Favorite Books
 
-- [The World as Will and Representation — Arthur Schopenhauer](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation), [ch14](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation/First_Book#%C2%A7_14)
-
-# Curriculum Vitae
-- [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/_Academic_CV__Sumin_Resume_20230828.pdf)
-- [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
+- [The World as Will and Representation — Arthur Schopenhauer](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation)
