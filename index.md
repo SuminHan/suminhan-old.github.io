@@ -99,3 +99,4 @@ Cooking, Chess ([sucern@chess.com](https://www.chess.com/member/sucern))
 ## Favorite Books
 
 - [The World as Will and Representation — Arthur Schopenhauer](https://en.wikisource.org/wiki/The_World_as_Will_and_Representation)
+- Lectures on Immoral Education — Yukio Mishima
