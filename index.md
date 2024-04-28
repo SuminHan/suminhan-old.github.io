@@ -46,7 +46,7 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
 ### Domestic Publications
 
 #### 2024
-- Doyoon Park, Sumin Han, Youngjun Park, Dongman Lee, "Geographical Visualization Interface of Human Travel Path to Understand Human Mobility", [Paper] [DEMO](https://manhattan-geo.vercel.app/)
+- Doyoon Park, Sumin Han, Youngjun Park, Dongman Lee, "Geographical Visualization Interface of Human Travel Path to Understand Human Mobility", [Paper](Geographical-Visualization.pdf) [DEMO](https://manhattan-geo.vercel.app/)
 
 #### 2022
 - 김창희, 한수민, 이동만, 지하철 이용패턴을 통한 역단위 장소성 추론, KCC 2022
