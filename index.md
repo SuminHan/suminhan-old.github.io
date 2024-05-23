@@ -3,7 +3,7 @@ Sumin Han
 
 _last updated: Feb 21st, 2024_
 
-<img src="suminhan-taiwan.png" width=300 alt="SuminHan Taiwan">
+<img src="suminhan-taiwan.png" alt="SuminHan Taiwan" width="300" >
 
 
 
