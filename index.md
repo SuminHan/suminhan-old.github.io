@@ -3,7 +3,9 @@ Sumin Han
 
 _last updated: Feb 21st, 2024_
 
-![](./suminhan-taiwan.png)
+<img src="suminhan-taiwan.png" width=300 alt="SuminHan Taiwan">
+
+
 
 Sumin Han, Ph.D. Candidate -- Expected Graduation Date: August, 2024, [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
