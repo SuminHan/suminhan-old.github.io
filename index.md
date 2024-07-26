@@ -89,6 +89,11 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
     - Full-time SW developer
     - **Skills:** JavaScript · HTML · PHP · Git · Node.js · MongoDB · Vim · Express.js · AngularJS · Agile Methodologies · Firebase
 
+## Hackathons
+
+- 2024 KAIST GESS <https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970>: K-Bridge VisaMate -- First Place
+- 2022 Busan Startup Weekend <https://www.busan.go.kr/eng/bsevents/1535941>: <https://github.com/SuminHan/Yourney-NFT>
+
 # Curriculum Vitae
 - [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/Sumin_Academic_CV.pdf)
 - [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
