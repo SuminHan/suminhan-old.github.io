@@ -91,7 +91,7 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
 
 ## Hackathons
 
-- 2024 Sparcs AI Hackathon <https://event.sparcs.org/sash24>: <[https://github.com/SuminHan/Yourney-NFT](https://github.com/SuminHan/Sparcs-AI-Senior-Offline-Meetup)>
+- 2024 Sparcs AI Hackathon <https://event.sparcs.org/sash24>: <https://github.com/SuminHan/Sparcs-AI-Senior-Offline-Meetup>
 - 2024 KAIST GESS <https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970>: K-Bridge VisaMate -- First Place
 - 2022 Busan Startup Weekend <https://www.busan.go.kr/eng/bsevents/1535941>: <https://github.com/SuminHan/Yourney-NFT>
 
