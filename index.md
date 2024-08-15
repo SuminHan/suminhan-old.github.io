@@ -9,6 +9,8 @@ _last updated: Feb 21st, 2024_
 
 Sumin Han, Ph.D. Candidate in [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
+My Essay on Urban Computing -- [KR](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_KR.pdf) [EN](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_EN.pdf)
+
 School of Computing, Korea Advanced Institute of Science and Technology (KAIST)
 
 *   Email: hsm6911 (at) kaist.ac.kr
