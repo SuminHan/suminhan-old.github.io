@@ -88,6 +88,7 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
 - Satrec Initiative Co., Ltd. (Jul 2017 - Aug 2017 · 2 mos)
     - Parallel Computing Framework Design
     - **Skills:** Parallel Computing · MPI · CUDA · docker · CentOS
+    - [Report](2017 여름 인턴십 프로그램 결과 보고서 (한수민).pdf)
 - 로톡 LAWTALK (Mar 2014 - May 2014 · 3 mos): Software Engineer
     - Full-time SW developer
     - **Skills:** JavaScript · HTML · PHP · Git · Node.js · MongoDB · Vim · Express.js · AngularJS · Agile Methodologies · Firebase
@@ -99,7 +100,7 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
 - 2022 Busan Startup Weekend <https://www.busan.go.kr/eng/bsevents/1535941>: <https://github.com/SuminHan/Yourney-NFT>
 
 # Curriculum Vitae
-- [Academic CV](https://github.com/SuminHan/suminhan.github.io/raw/master/Sumin_Academic_CV.pdf)
+- [Academic CV](https://suminhan.github.io/Sumin_Academic_CV.pdf)
 - [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
 
 
