@@ -88,7 +88,7 @@ Construction Data”. In: Association of European Schools Of Planning (AESOP) (2
 - Satrec Initiative Co., Ltd. (Jul 2017 - Aug 2017 · 2 mos)
     - Parallel Computing Framework Design
     - **Skills:** Parallel Computing · MPI · CUDA · docker · CentOS
-    - [Report](2017 여름 인턴십 프로그램 결과 보고서 (한수민).pdf)
+    - [Report](2017_여름_인턴십_프로그램_결과_보고서_(한수민).pdf)
 - 로톡 LAWTALK (Mar 2014 - May 2014 · 3 mos): Software Engineer
     - Full-time SW developer
     - **Skills:** JavaScript · HTML · PHP · Git · Node.js · MongoDB · Vim · Express.js · AngularJS · Agile Methodologies · Firebase
