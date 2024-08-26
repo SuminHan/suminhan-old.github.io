@@ -33,9 +33,10 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 ### International Publications
 
 #### 2024
+- Sumin Han, Jisun An, Youngjun Park, Suji Kim, Kitae Jang, Dongman Lee, "Multiple Areal Feature Aware Transportation Demand Prediction", [ArXiv](https://arxiv.org/abs/2408.12890)
+- Sumin Han, Jisun An, Dongman Lee, "Spatio-Temporal Road Traffic Prediction using Real-time Regional Knowledge", [ArXiv](https://arxiv.org/abs/2408.12882)
 - Sumin Han, Youngjun Park, Sonia Sabir, Jisun An, and Dongman Lee, “Improving Real Estate Appraisal with POI Integration and Areal Embedding,”, [Arxiv](https://arxiv.org/abs/2311.11812) [Code](https://github.com/SuminHan/AMMASI), DMO-FinTech Workshop held in conjunction with the PAKDD conference in May 7-10, 2024.
-- Youngjun Park and Sumin Han. “Enhancing Population Predictions in Developing Area through Building
-Construction Data”. In: Association of European Schools Of Planning (AESOP) (2024)
+- Youngjun Park and Sumin Han. “Enhancing Population Predictions in Developing Area through Building Construction Data”. In: Association of European Schools Of Planning (AESOP) (2024)
 
 #### 2023
 - Sumin Han, Youngjun Park, Minji Lee, Jisun An, and Dongman Lee, “Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis,”  32nd ACM International Conference on Information and Knowledge Management (acceptance rate 24%) [Paper](https://dl.acm.org/doi/10.1145/3583780.3614867) [Code](https://github.com/SuminHan/Traffic-UAGCRNTF)
