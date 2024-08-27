@@ -3,7 +3,7 @@ Sumin Han
 
 _last updated: Aug 27th, 2024_
 
-<img src="thumb-grad.jpg" alt="SuminHan" width=300>
+<img src="thumb-grad.jpg" alt="SuminHan">
 
 Sumin Han, Ph.D. Candidate in [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
