@@ -9,6 +9,8 @@ _last updated: Feb 21st, 2024_
 
 Sumin Han, Ph.D. Candidate in [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
+[Curriculum Vitae](https://suminhan.github.io/_Academic_CV__Sumin_Resume_20240821.pdf)
+
 My Essay on Urban Computing -- [KR](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_KR.pdf) [EN](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_EN.pdf)
 
 School of Computing, Korea Advanced Institute of Science and Technology (KAIST)
@@ -99,10 +101,6 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 - 2024 Sparcs AI Hackathon <https://event.sparcs.org/sash24>: <https://github.com/SuminHan/Sparcs-AI-Senior-Offline-Meetup>
 - 2024 KAIST GESS <https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970>: K-Bridge VisaMate -- First Place
 - 2022 Busan Startup Weekend <https://www.busan.go.kr/eng/bsevents/1535941>: <https://github.com/SuminHan/Yourney-NFT>
-
-# Curriculum Vitae
-- [Academic CV](https://suminhan.github.io/_Academic_CV__Sumin_Resume_20240821.pdf)
-- [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
 
 
 ## Hobbies
