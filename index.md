@@ -1,9 +1,9 @@
 Sumin Han
 ===
 
-_last updated: Feb 21st, 2024_
+_last updated: Aug 27th, 2024_
 
-<img src="suminhan-taiwan.png" alt="SuminHan Taiwan" width="300" >
+<img src="thumb-grad.jpg" alt="SuminHan" width="300" >
 
 
 
