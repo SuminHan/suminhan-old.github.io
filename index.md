@@ -3,17 +3,16 @@ Sumin Han
 
 _last updated: Aug 27th, 2024_
 
-<img src="thumb-grad.jpg" alt="SuminHan">
+<img src="suminhan-taiwan.png" alt="SuminHan" width=300>
 
 
 
 Sumin Han, Ph.D. Candidate in [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
-[Curriculum Vitae](https://suminhan.github.io/_Academic_CV__Sumin_Resume_20240821.pdf)
 
 My Essay on Urban Computing -- [KR](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_KR.pdf) [EN](https://suminhan.github.io/SuminHan_Essay_Philosophy_on_Urban_Computing_EN.pdf)
 
-School of Computing, Korea Advanced Institute of Science and Technology (KAIST)
+School of Computing, Korea Advanced Institute of Science and Technology (KAIST) [Curriculum Vitae](https://suminhan.github.io/_Academic_CV__Sumin_Resume_20240821.pdf)
 
 *   Email: hsm6911 (at) kaist.ac.kr
 *   Bento: <https://bento.me/suminhan>
