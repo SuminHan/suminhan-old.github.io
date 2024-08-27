@@ -5,7 +5,7 @@ _last updated: Aug 27th, 2024_
 
 <img src="thumb-grad.jpg" alt="SuminHan">
 
-Sumin Han, Ph.D. Candidate in [CDSN Lab](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
+Sumin Han, Ph.D. Candidate in [Collaborative Distributed Systems Networks Laboratory (CDSNLab)](http://cds.kaist.ac.kr/) (Advisor: Dongman Lee)
 
 School of Computing, Korea Advanced Institute of Science and Technology (KAIST) [Curriculum Vitae](https://suminhan.github.io/Academic_CV_Sumin_Resume_20240821.pdf)
 
