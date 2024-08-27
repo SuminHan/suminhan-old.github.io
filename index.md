@@ -16,9 +16,10 @@ My Essay on Urban Computing -- [KR](https://suminhan.github.io/SuminHan_Essay_Ph
 School of Computing, Korea Advanced Institute of Science and Technology (KAIST)
 
 *   Email: hsm6911 (at) kaist.ac.kr
-*   Linkedin: [https://www.linkedin.com/in/sumin-han-cs/](https://www.linkedin.com/in/sumin-han-cs/)
-*   Github: [https://github.com/SuminHan](https://github.com/SuminHan)
-*   Blog: [https://csds.tistory.com](https://csds.tistory.com/)
+*   Bento: <https://bento.me/suminhan>
+*   Linkedin: <https://www.linkedin.com/in/sumin-han-cs/>
+*   Github: <https://github.com/SuminHan>
+*   Blog: <https://csds.tistory.com/>
 
 ## Education
 
