@@ -101,7 +101,7 @@ Urban Computing, Spatio-temporal Deep Neural Network, Road2Vec/Region2Vec, Urban
 - 2022 Busan Startup Weekend <https://www.busan.go.kr/eng/bsevents/1535941>: <https://github.com/SuminHan/Yourney-NFT>
 
 # Curriculum Vitae
-- [Academic CV](https://suminhan.github.io/Sumin_Academic_CV.pdf)
+- [Academic CV](https://suminhan.github.io/_Academic_CV__Sumin_Resume_20240821.pdf)
 - [Notion CV (updated more frequently)](https://smhan.notion.site/Sumin-Han-CV-1df31bb70e99436990aac08e051d4d3e)
 
 
